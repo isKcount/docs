@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ef19452a","path":"/zh/pip/operator/","title":"Operator\u539F\u7406","lang":"zh-CN","frontmatter":{"title":"Operator\u539F\u7406"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0.01,"words":4},"filePathRelative":"zh/pip/operator/README.md"}');export{e as data};

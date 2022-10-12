@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-be90b48a","path":"/zh/web3/fisco/","title":"\u8054\u76DF\u94FE\u6761 FISCO BCOS","lang":"zh-CN","frontmatter":{"title":"\u8054\u76DF\u94FE\u6761 FISCO BCOS"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0.02,"words":7},"filePathRelative":"zh/web3/fisco/README.md"}');export{e as data};

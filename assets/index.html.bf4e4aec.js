@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-69727ee4","path":"/zh/web3/solidity/","title":"\u667A\u80FD\u5408\u7EA6 Solidity\u8BED\u8A00","lang":"zh-CN","frontmatter":{"title":"\u667A\u80FD\u5408\u7EA6 Solidity\u8BED\u8A00"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0.03,"words":8},"filePathRelative":"zh/web3/solidity/README.md"}');export{e as data};
